@@ -1,5 +1,4 @@
 This is the project beginning
-Its looking good
 Thgis is still good
 Extra line
 some random change
